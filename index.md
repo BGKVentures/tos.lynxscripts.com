@@ -5,7 +5,7 @@
 
 # Lynx Scripts Terms of Service
 These are the Terms of Service for [https://www.lynxscripts.com/](https://www.lynxscripts.com/).
-
+---
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://lynxscripts.com/ website (the "Website") or the use of Chrome Extensions made available on the website (the “Services”) operated by Lynx Robotics, LLC ("us", "we", or "our").
 Your access to and use of the Website is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Website or Service.
 
