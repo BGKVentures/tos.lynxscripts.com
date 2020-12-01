@@ -1,3 +1,8 @@
+<head>
+<!-- Favicon head tag -->
+<link rel="icon" href="BGKVentures/tos.lynxscripts.com/favicon.ico" type="image/x-icon">
+</head>
+
 # Lynx Scripts Terms of Service
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://lynxscripts.com/ website (the "Website") or the use of Chrome Extensions made available on the website (the “Services”) operated by Lynx Robotics, LLC ("us", "we", or "our").
