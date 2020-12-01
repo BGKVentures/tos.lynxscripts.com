@@ -1,6 +1,6 @@
 <head>
 <!-- Favicon head tag -->
-<link rel="icon" href="BGKVentures/tos.lynxscripts.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 # Lynx Scripts Terms of Service
